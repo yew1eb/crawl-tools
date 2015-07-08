@@ -184,10 +184,10 @@ class MssagePush(Daemon):
             try:
                 content = self.make_text()
                 if content == None:
-                    time.sleep(1)
+                    time.sleep(3600*2)
                     continue 
                 if self.send_mail(subject, content):
-                    time.sleep(1)
+                    time.sleep(3600*3)
                     self.last_time = time.strftime('%Y-%m-%d', time.localtime(time.time()))
                     fp = open('./last_update_time', 'w+')
                     fp.write(self.last_time)
@@ -195,11 +195,11 @@ class MssagePush(Daemon):
                     sys.stderr.write("Send success %s\n" % time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
                     
                 else:
-                    time.sleep(1)
+                    time.sleep(600)
                     sys.stderr.write("Failed to send %s\n" % time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
             except:
                 pass 
-            time.sleep(1)
+            time.sleep(3600)
 
 
 if __name__ == '__main__':
