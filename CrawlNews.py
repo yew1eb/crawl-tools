@@ -113,10 +113,10 @@ class Daemon():
 class MssagePush(Daemon):
     
     send_dict = {
-        'rece_list':["873554484@qq.com"],                       #收件人列表
+        'rece_list':["xxxxxxxx@qq.com",],                       #收件人列表
         'send_host':"smtp.qq.com",                              #设置服务器
-        'sender':"949020892@qq.com",                            #用户名
-        'passwd':"haige6769107"                                 #口令
+        'sender':"xxxxxxxxx@qq.com",                            #用户名
+        'passwd':"xxxxxxxxxxxx"                                 #口令
     }
     
     last_time = time.strftime('%Y-%m-%d', time.localtime(time.time()))
