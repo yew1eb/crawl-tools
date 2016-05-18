@@ -1,0 +1,1 @@
+For each case, output an integer, indicating the most score Alice can get.

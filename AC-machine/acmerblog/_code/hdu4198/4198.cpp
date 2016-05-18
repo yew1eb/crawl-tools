@@ -1,0 +1,80 @@
+#include <iostream>
+#include <cstring>
+#include <cstdio>
+#include <queue>
+
+using namespace std;
+
+const int maxn = 505;
+int cas, h, w, d;
+int sx, sy, tx, ty;
+char map[maxn][maxn];
+int dir[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+
+struct Pos
+{
+    int x, y, t;
+    friend bool operator < (Pos p1, Pos p2)
+    {
+        return p1.t > p2.t;
+    }
+};
+
+bool inMap(int x, int y)
+{
+    return (x >= 0 && x < h && y >= 0 && y < w);
+}
+
+int bfs()
+{
+    priority_queue<Pos> Q;
+    Pos cur, nxt;
+    cur.x = sx; cur.y = sy; cur.t = 0;
+    Q.push(cur);
+    map[sx][sy] = '#';
+    
+    while (!Q.empty())
+    {
+        cur = Q.top();
+        Q.pop();
+        if (cur.x == tx && cur.y == ty)
+            return cur.t + 1;
+        for (int i = 0; i < 4; ++i)
+        {
+            nxt.x = cur.x + dir[i][0];
+            nxt.y = cur.y + dir[i][1];
+            if (inMap(nxt.x, nxt.y) && map[nxt.x][nxt.y] != '#')
+            {
+                if (map[nxt.x][nxt.y] == '.')
+                    nxt.t = cur.t + 1;
+                else nxt.t = cur.t + d + 1;
+                map[nxt.x][nxt.y] = '#';
+                Q.push(nxt);
+            }
+        }
+    }
+}
+
+int main()
+{
+    scanf("%d", &cas);
+    while (cas--)
+    {
+        scanf("%d %d %d", &h, &w, &d);
+        for (int i = 0; i < h; ++i)
+            scanf("%s", map[i]);
+        for (int i = 0; i < h; ++i)
+        {
+            for (int j = 0; j < w; ++j)
+            {
+                if (map[i][j] == 'S')
+                    sx = i, sy = j;
+                if (i == 0 || i == h - 1 || j == 0 || j == w - 1)
+                    if (map[i][j] != '#')
+                        tx = i, ty = j;
+            }
+        }
+        printf("%d\n", bfs());
+    }
+    return 0;
+}
