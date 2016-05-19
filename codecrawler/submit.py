@@ -71,8 +71,8 @@ class Submit(object):
                 continue
             time.sleep(1)
             count = count + 1
-            if count % 10 == 0:
-                time.sleep(10)
+            if count % 3 == 0:
+                time.sleep(4)
             lang = 0
             if code.find('import') >= 0:
                 lang = 5
