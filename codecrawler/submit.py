@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-import re, os
+import re, os, time
 
 from bs4 import BeautifulSoup
 
@@ -41,10 +41,11 @@ class Submit(object):
             'usercode': code
         }
         headers = {
-            'Connect-Type': 'application/x-www-form-urlencoded'
+            'Connect-Type': 'application/x-www-form-urlencoded',
+            'Cookie':'PHPSESSID=0hdpjvo7t4t9nl9jgn5bnes3g2'
         }
-        print('submitting problem: ', pid)
         r = self.session.post(url, data=data, headers=headers)
+        print('submitting problem: ', pid, 'Status Code: ', r.status_code)
 
     def get_file(self):
         root = '_code'
@@ -60,13 +61,22 @@ class Submit(object):
 
     def start(self):
         self.get_file()
+        count = 0
         for item in self.needs:
             list = item.split(':')
             pid = list[0]
-            fd = open(list[1],'w+')
-            code = fd.readlines()
-            print(code)
-            break
+            fd = open(list[1], 'r')
+            code = fd.read()
+            if len(code)==0:
+                continue
+            time.sleep(1)
+            count = count + 1
+            if count % 10 == 0:
+                time.sleep(10)
+            lang = 0
+            if code.find('import') >= 0:
+                lang = 5
+            self.submit(pid, code, lang)
 
 if __name__ == '__main__':
     go = Submit()
