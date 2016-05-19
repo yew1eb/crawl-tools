@@ -1,1 +1,0 @@
-main: a.o b.o    g++ a.o b.o -o main

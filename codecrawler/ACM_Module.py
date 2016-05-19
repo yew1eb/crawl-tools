@@ -270,7 +270,7 @@ class ACM_Module(object):
 if __name__ == '__main__':
     c = ACM_Module()
     user = 'cbdbs'
-    c.login(user, 'daydayup')
+    c.login(user, 'xxx')
     c.getstatus('cbdbs')
     #c.autorun(start=1002)
     #c.getacweb(1000)

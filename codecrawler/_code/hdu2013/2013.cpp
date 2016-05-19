@@ -1,1 +1,0 @@
-<span style="font-size:18px;">for (s = n = 1; n &amp;lt; 30; n++)s = (s + 1) * 2;</span>

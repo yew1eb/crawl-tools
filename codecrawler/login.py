@@ -4,16 +4,19 @@
 import requests
 import configparser
 
+
 class Login(object):
     def __init__(self):
         cf = configparser.ConfigParser()
         cf.read('config.ini')
-        self.UA = cf.get('http', 'UA')
         self.username = cf.get('user', 'username')
         self.password = cf.get('user', 'password')
-
         self.session = requests.Session()
-        self.session.headers.update({'User-Agent': self.UA})
+        headers = {
+            'User-Agent': cf.get('http', 'UA')
+        }
+        self.session.headers.update(headers)
+        self.login()
 
     def login(self):
         url = 'http://acm.hdu.edu.cn/userloginex.php?action=login'
@@ -25,7 +28,8 @@ class Login(object):
         headers = {
             'host': 'acm.hdu.edu.cn',
             'origin': 'http://acm.hdu.edu.cn',
-            'referer': 'http://acm.hdu.edu.cn/'
+            'referer': 'http://acm.hdu.edu.cn/',
         }
         r = self.session.post(url, data=data, headers=headers)
-        print('Login Status Code: ' + str(r.status_code == requests.codes.ok) )
+        print('PHPSESSID: ' + r.cookies['PHPSESSID'])
+        print('Login Status Code: ' + str(r.status_code))

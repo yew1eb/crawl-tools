@@ -1,4 +1,0 @@
-bwwb
-bbwb
-bwwb
-bwww
