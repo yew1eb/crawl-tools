@@ -1,0 +1,1 @@
+GRAPH BEGIN  a b  b c  GRAPH END  GRAPH BEGIN  a b c  b c d  d e f  e f  GRAPH END

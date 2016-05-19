@@ -2,105 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98d82365-3211-45c1-a683-e1e33689ced0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1000/16171445.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1000/16171446.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171467.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171469.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171471.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171472.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171473.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171474.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171475.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171522.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171624.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171710.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171711.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171722.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171723.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171730.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1009/16171731.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1010/16171725.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1010/16171734.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1011/16171738.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1012/16171737.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1012/16171741.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1013/16171735.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1013/16171736.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1013/16171739.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1015/16171778.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1016/16171776.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1016/16171782.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1017/16171774.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1017/16171779.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1017/16171790.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1018/16171786.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1018/16171787.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1018/16171788.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1019/16171775.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1019/16171789.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1020/16171772.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1020/16171777.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1033/16172194.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1033/16172195.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1033/16172196.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1034/16172189.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1034/16172200.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1035/16172191.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1035/16172198.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1035/16172199.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1050/16172507.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16172666.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16172816.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16172827.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16172941.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16172957.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16172973.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16173247.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16173284.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16173362.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16173395.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16173403.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1100/16173409.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16173797.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16173830.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16173896.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16173905.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16173926.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16174026.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16174037.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16174072.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16174082.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1200/16179539.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1201/16173452.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1201/16173453.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1202/16173441.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1202/16173442.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1203/16173448.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1204/16173437.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1205/16173449.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1205/16173450.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1205/16173454.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1300/16179595.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1300/16179597.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1301/16179596.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1302/16179592.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1302/16179593.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/HDUcode/code/hdu1303/16179594.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/acmerblog/acmerblog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/acmerblog/delete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/acmerblog/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/code.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/downSolved.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/error.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/go.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/hducode/hducode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/hducode/status.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/solved.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AC-machine/submit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/word_frequency/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/word_frequency/word_frequency.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/crawl-tools.iml" afterPath="$PROJECT_DIR$/.idea/crawl-tools.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AC-machine/acmerblog/acmerblog.js" afterPath="$PROJECT_DIR$/AC-machine/acmerblog/acmerblog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AC-machine/acmerblog/post.js" afterPath="$PROJECT_DIR$/AC-machine/acmerblog/post.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AC-machine/acmerblog/solved.txt" afterPath="$PROJECT_DIR$/AC-machine/acmerblog/solved.txt" />
     </list>
     <ignored path="crawl-tools.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,11 +34,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="post.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AC-machine/acmerblog/post.js">
+      <file leaf-file-name="HDOJ_Submitter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HDUACM_ACer/HDOJ_Submitter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.9847434">
+              <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+              <folding>
+                <element signature="e#20#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ACM_Module.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HDUACM_ACer/ACM_Module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="275" column="21" selection-start-line="275" selection-start-column="21" selection-end-line="275" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -197,21 +114,20 @@
         <option value="$PROJECT_DIR$/AC-machine/submit.js" />
         <option value="$PROJECT_DIR$/AC-machine/acmerblog/submit.js" />
         <option value="$PROJECT_DIR$/AC-machine/acmerblog/post.js" />
-        <option value="$PROJECT_DIR$/AC-machine/acmerblog/delete.js" />
+        <option value="$PROJECT_DIR$/HDUACM_ACer/ACM_Module.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
-    <option name="y" value="23" />
-    <option name="width" value="1391" />
-    <option name="height" value="877" />
+    <option name="x" value="51" />
+    <option name="y" value="59" />
+    <option name="width" value="1389" />
+    <option name="height" value="841" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -238,6 +154,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crawl-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Changed Files">
@@ -261,59 +188,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crawl-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crawl-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crawl-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crawl-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crawl-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AC-machine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crawl-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crawl-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AC-machine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acmerblog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,10 +211,7 @@
       <recent name="$PROJECT_DIR$/CrawlNews" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.post.js">
-    <configuration default="false" name="submit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="submit.js" working-dir="$PROJECT_DIR$/AC-machine">
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="false" name="acmerblog.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="acmerblog.js" working-dir="$PROJECT_DIR$/AC-machine/acmerblog">
       <method />
     </configuration>
@@ -350,35 +221,60 @@
     <configuration default="false" name="post.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="post.js" working-dir="$PROJECT_DIR$/AC-machine/acmerblog">
       <method />
     </configuration>
-    <configuration default="false" name="delete.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="delete.js" working-dir="$PROJECT_DIR$/AC-machine/acmerblog">
+    <configuration default="false" name="spider_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baike_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawl-tools" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baike_spider/spider_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="false" name="submit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="submit.js" working-dir="$PROJECT_DIR$/AC-machine">
       <method />
     </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -389,21 +285,7 @@
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
       <scripts />
-      <node-interpreter value="project" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
       <method />
     </configuration>
     <configuration default="false" name="go.sh" type="BashConfigurationType" factoryName="Bash">
@@ -417,26 +299,12 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.submit.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.acmerblog.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.hducode.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.post.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.delete.js" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Bash.go.sh" />
+      <item index="1" class="java.lang.String" itemvalue="Python.spider_main" />
     </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.post.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.delete.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.submit.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.hducode.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.acmerblog.js" />
-      </list>
-    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -445,22 +313,20 @@
       <changelist id="98d82365-3211-45c1-a683-e1e33689ced0" name="Default" comment="" />
       <created>1460134371971</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1460134371971</updated>
       <workItem from="1463560453460" duration="16070000" />
-      <workItem from="1463579570585" duration="2797000" />
+      <workItem from="1463579570062" duration="644000" />
+      <workItem from="1463617415975" duration="1531000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1460277735590</created>
       <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1460277735590</updated>
     </task>
     <task id="LOCAL-00002" summary="update">
       <created>1460285692337</created>
       <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1460285692337</updated>
     </task>
@@ -468,31 +334,31 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18867000" />
+    <option name="totallyTimeSpent" value="18245000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="23" width="1391" height="877" extended-state="6" />
+    <frame x="51" y="59" width="1389" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21605839" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25241277" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32443258" sideWeight="0.50291973" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3219448" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4598726" sideWeight="0.50291973" order="2" side_tool="true" content_ui="tabs" x="79" y="253" width="1370" height="470" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3656051" sideWeight="0.4970803" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3648469" sideWeight="0.49707603" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22058824" sideWeight="0.50877196" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3219448" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3648469" sideWeight="0.50292397" order="2" side_tool="true" content_ui="tabs" x="79" y="253" width="1370" height="470" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843792" sideWeight="0.4970803" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -515,23 +381,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HDUACM_ACer/HDOJ_Submitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#20#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDUACM_ACer/ACM_Module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="275" column="21" selection-start-line="275" selection-start-column="21" selection-end-line="275" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AC-machine/go.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/scripts/generateData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_mysql_connect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -539,70 +423,70 @@
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/crawl_jd/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl_news/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-237637198/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4231" column="8" selection-start-line="4231" selection-start-column="8" selection-end-line="4231" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baike_spider/html_parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-237637198/_io.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1375" column="8" selection-start-line="1375" selection-start-column="8" selection-end-line="1375" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baike_spider/output.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="54" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baike_spider/html_outputer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="90" selection-start-line="15" selection-start-column="90" selection-end-line="15" selection-end-column="90" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl_news/last_update_time">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl_news/error_log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl_news/pidfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -610,21 +494,21 @@
     <entry file="file://$PROJECT_DIR$/crawl_news/README.md" />
     <entry file="file://$PROJECT_DIR$/crawl_news/crawl_news.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl_jd/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baike_spider/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -632,42 +516,42 @@
     <entry file="file://$PROJECT_DIR$/study-note.md" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/163password/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baike_spider/url_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baike_spider/spider_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baike_spider/html_downloader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/163password/go.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
@@ -675,162 +559,159 @@
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/crawl_jd/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="51" column="53" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl_jd/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/pymysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/scripts/generateData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/word_frequency/word_frequency.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_bs4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_mysql_connect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/anaconda/lib/python3.5/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="264" column="8" selection-start-line="264" selection-start-column="8" selection-end-line="264" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/spyderlib/utils/inspector/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8246" column="44" selection-start-line="8246" selection-start-column="44" selection-end-line="8246" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AC-machine/solved.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AC-machine/go.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AC-machine/code.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
+        <state vertical-scroll-proportion="0.0">
           <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AC-machine/error.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
+        <state vertical-scroll-proportion="0.0">
           <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AC-machine/code/hdu1010/1.cpp" />
     <entry file="file://$PROJECT_DIR$/AC-machine/downSolved.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AC-machine/acmerblog/page.txt" />
-    <entry file="file://$PROJECT_DIR$/AC-machine/acmerblog/_code/hdu0-sa/0-sa.cpp" />
     <entry file="file://$PROJECT_DIR$/AC-machine/acmerblog/_code/hdu4738/4738.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AC-machine/hducode/status.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
+        <state vertical-scroll-proportion="0.0">
           <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AC-machine/hducode/hducode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
+        <state vertical-scroll-proportion="0.0">
           <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="138" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AC-machine/acmerblog/acmerblog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state vertical-scroll-proportion="0.0">
           <caret line="51" column="46" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AC-machine/submit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
+        <state vertical-scroll-proportion="0.0">
           <caret line="122" column="1" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AC-machine/acmerblog/solved.txt">
+    <entry file="file://$PROJECT_DIR$/AC-machine/solved.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AC-machine/acmerblog/delete.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AC-machine/acmerblog/post.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="96" column="48" selection-start-line="96" selection-start-column="48" selection-end-line="96" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDUACM_ACer/ACM_Module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="275" column="21" selection-start-line="275" selection-start-column="21" selection-end-line="275" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDUACM_ACer/HDOJ_Submitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9847434">
+          <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+          <folding>
+            <element signature="e#20#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
