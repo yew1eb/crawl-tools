@@ -12,6 +12,7 @@ class Submit(object):
         self.login = Login()
         self.session = self.login.session
         self.pids = self.get_solved()
+        print("solved : ", len(self.pids))
         self.needs = []
         pass
 
@@ -25,7 +26,6 @@ class Submit(object):
             if item:
                 item = re.search(r'\d{4}', item)
                 solved.append(item.group(0))
-        print("solved.size : %d" % len(solved))
         return solved
 
     def submit(self, pid, code, lang=0):
@@ -42,7 +42,7 @@ class Submit(object):
         }
         headers = {
             'Connect-Type': 'application/x-www-form-urlencoded',
-            'Cookie':'PHPSESSID=0hdpjvo7t4t9nl9jgn5bnes3g2'
+            'Cookie': 'PHPSESSID=0hdpjvo7t4t9nl9jgn5bnes3g2'
         }
         r = self.session.post(url, data=data, headers=headers)
         print('submitting problem: ', pid, 'Status Code: ', r.status_code)
@@ -58,26 +58,31 @@ class Submit(object):
             for file in os.listdir(path):
                 key = pid + ':' + path + '/' + file
                 self.needs.append(key)
+        print("need total: ", len(self.needs))
 
     def start(self):
         self.get_file()
         count = 0
+        last_pid = 0
         for item in self.needs:
             list = item.split(':')
             pid = list[0]
             fd = open(list[1], 'r')
             code = fd.read()
-            if len(code)==0:
+            if len(code) == 0:
                 continue
-            time.sleep(1)
-            count = count + 1
-            if count % 3 == 0:
-                time.sleep(4)
             lang = 0
             if code.find('import') >= 0:
                 lang = 5
             self.submit(pid, code, lang)
+            time.sleep(0.2)
+            count = count + 1
+            if count % 10 == 0:
+                print("sleep 2 s")
+                time.sleep(10)
+
 
 if __name__ == '__main__':
     go = Submit()
+
     go.start()
